@@ -1,9 +1,18 @@
 body{
     background-color: black;
-    color: beige;
+    color: black;
 }
 
 div{
     margin: auto;
     background-color: white;
+    width: 75%;
+    height: 50vh;
+    border-radius: 15px;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
